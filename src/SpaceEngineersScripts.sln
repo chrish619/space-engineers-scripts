@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinerCargoVolume", "MinerCargoVolume\MinerCargoVolume.csproj", "{0AC1E281-982D-4C0D-A348-475426997013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC1E281-982D-4C0D-A348-475426997013}.Debug|x64.ActiveCfg = Debug|x64
+		{0AC1E281-982D-4C0D-A348-475426997013}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AD922A0-ACE0-4223-9B7E-38D946196033}
+	EndGlobalSection
+EndGlobal
